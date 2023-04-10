@@ -9,19 +9,19 @@
     "test": "vitest"
   },
   "dependencies": {
-    "next": "12.1.5",
-    "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "next": "13.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@testing-library/react": "^13.2.0",
+    "@testing-library/react": "^14.0.0",
     "@types/node": "latest",
-    "@types/react": "latest",
+    "@types/react": "^18.0.34",
     "@vitejs/plugin-react": "latest",
-    "@vitest/browser": "^0.29.8",
+    "@vitest/browser": "^0.30.0",
     "jsdom": "latest",
     "playwright": "^1.32.1",
-    "typescript": "^4.8.4",
-    "vitest": "latest"
+    "typescript": "^5.0.4",
+    "vitest": "^0.30.0"
   }
 }
